@@ -2,8 +2,6 @@ body {
   background-color: blue;
 }
 
-
-
 h1 {
   color: white;
   font-family: 'Fjalla One', sans-serif;
@@ -14,6 +12,10 @@ h1 {
 
 #main-display {
   margin-top: 5em;
+}
+
+#home,#about, #projects, #contact {
+  background-color: white;
 }
 
 
