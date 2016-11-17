@@ -10,6 +10,10 @@ h1 {
   text-shadow: 0.1em 0.1em red, -0.1em -0.1em red;
 }
 
+form {
+ margin: 1em;
+}
+
 li a {
   font-family: 'Fjalla One', sans-serif;
   font-size: 1em;
