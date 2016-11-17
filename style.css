@@ -9,7 +9,7 @@ h1 {
   font-family: 'Fjalla One', sans-serif;
   font-size: 4em;
   font-weight: bold;
-  text-shadow: 0.05em 0.05em black;
+  text-shadow: 0.05em 0.05em white, -0.05em -0.05em white;
 }
 
 
