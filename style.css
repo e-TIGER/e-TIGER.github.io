@@ -5,16 +5,13 @@ body {
 
 
 h1 {
-  color: #eaf2ff;
+  color: blue;
+  opacity: 0.5;
   font-family: 'Fjalla One', sans-serif;
   font-size: 4em;
   font-weight: bold;
   text-shadow: 0.05em 0.05em white, -0.05em -0.05em white;
 }
-
-
-
-
 
 #main-display {
   margin-top: 3em;
