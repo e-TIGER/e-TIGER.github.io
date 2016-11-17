@@ -1,16 +1,15 @@
 body {
-  background-color: red;
+  background-color: blue;
 }
 
 
 
 h1 {
-  color: blue;
-  opacity: 0.5;
+  color: white;
   font-family: 'Fjalla One', sans-serif;
   font-size: 8em;
   font-weight: bold;
-  text-shadow: 0.1em 0.1em white, -0.1em -0.1em white;
+  text-shadow: 0.1em 0.1em red, -0.1em -0.1em red;
 }
 
 #main-display {
