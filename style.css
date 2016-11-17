@@ -10,6 +10,12 @@ h1 {
   text-shadow: 0.1em 0.1em red, -0.1em -0.1em red;
 }
 
+li+a {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+}
+
 .tab-pane {
   min-height: 33em;
   padding: 1em;
