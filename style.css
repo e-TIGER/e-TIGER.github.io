@@ -12,7 +12,9 @@ h1 {
 
 .tab-pane {
   height: 24em;
+  padding: 1em;
 }
+
 #main-display {
   margin-top: 5em;
 }
