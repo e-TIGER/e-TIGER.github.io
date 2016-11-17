@@ -13,15 +13,9 @@ h1 {
 .tab-pane {
   height: 24em;
   padding: 1em;
+  background-color: white;
 }
 
 #main-display {
   margin-top: 5em;
 }
-
-#home,#about, #projects, #contact {
-  background-color: white;
-  border-radius: 1em;
-}
-
-
