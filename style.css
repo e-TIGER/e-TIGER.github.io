@@ -16,6 +16,7 @@ h1 {
 
 #home,#about, #projects, #contact {
   background-color: white;
+  height: 30%;
 }
 
 
