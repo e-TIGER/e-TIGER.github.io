@@ -10,14 +10,16 @@ h1 {
   text-shadow: 0.1em 0.1em red, -0.1em -0.1em red;
 }
 
+.tab-pane {
+  height: 24em;
+}
 #main-display {
   margin-top: 5em;
 }
 
 #home,#about, #projects, #contact {
   background-color: white;
-  height: 14em;
-  border-radius: 1.5em;
+  border-radius: 1em;
 }
 
 
