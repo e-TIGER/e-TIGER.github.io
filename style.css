@@ -1,10 +1,12 @@
 body {
-  background-color: blue;
+  background-image: url("https://farm6.staticflickr.com/5520/30303321960_e94f7e1657_c.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 h1 {
   color: white;
-  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 8em;
   font-weight: bold;
   text-shadow: 0.1em 0.1em red, -0.1em -0.1em red;
