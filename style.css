@@ -29,19 +29,20 @@ li a {
 .tab-content {
    opacity: 0.05;
 }
-  
-.tab-content h3 {
-  opacity: 1;
-}
-
-.tab-content p {
-  opacity: 1;
-}
 
 .tab-pane {
   min-height: 33em;
   padding: 1em;
   background-color: gray;
+}
+
+  
+.tab-content .tab-pane h3 {
+  opacity: 1;
+}
+
+.tab-content .tab-pane p {
+  opacity: 1;
 }
 
 #main-display {
