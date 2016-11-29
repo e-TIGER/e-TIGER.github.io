@@ -17,7 +17,7 @@ html, body {
 h1 {
   color: white;
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 7em;
+  font-size: 6em;
   font-weight: bold;
   text-shadow: 0.07em 0.07em red, -0.07em -0.07em red;
 }
