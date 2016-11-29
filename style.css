@@ -30,11 +30,14 @@ li a {
   font-weight: bold;
 }
 
+.tab-content {
+   opacity: 0.05;
+}
+  
 .tab-pane {
   min-height: 33em;
   padding: 1em;
   background-color: gray;
-  opacity: 0.05;
 }
 
 #main-display {
