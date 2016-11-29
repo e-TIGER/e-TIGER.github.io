@@ -27,7 +27,7 @@ li a {
 }
 
 .tab-content {
-   opacity: 0.05;
+   opacity: 0.75;
 }
 
 .tab-pane {
@@ -36,14 +36,6 @@ li a {
   background-color: gray;
 }
 
-  
-.tab-content .tab-pane h3 {
-  opacity: 1;
-}
-
-.tab-content .tab-pane p {
-  opacity: 1;
-}
 
 #main-display {
   margin-top: 5em;
