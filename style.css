@@ -8,6 +8,12 @@ body {
   background-size: cover;
 }
 
+html, body {
+  margin: 0; 
+  height: 100%;
+  overflow: hidden;
+}
+
 h1 {
   color: white;
   font-family: 'Open Sans Condensed', sans-serif;
