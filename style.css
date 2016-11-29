@@ -16,10 +16,6 @@ h1 {
   text-shadow: 0.1em 0.1em red, -0.1em -0.1em red;
 }
 
-h3, p {
-  opacity: 1;
-}
-
 form {
  margin: 1em;
 }
@@ -34,6 +30,14 @@ li a {
    opacity: 0.05;
 }
   
+.tab-content h3 {
+  opacity: 1;
+}
+
+.tab-content p {
+  opacity: 1;
+}
+
 .tab-pane {
   min-height: 33em;
   padding: 1em;
