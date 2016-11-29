@@ -22,7 +22,7 @@ form {
 
 li a {
   font-family: 'Fjalla One', sans-serif;
-  font-size: 1em;
+  font-size: 1.5em;
   font-weight: bold;
 }
 
@@ -36,6 +36,9 @@ li a {
   background-color: gray;
 }
 
+.tab-pane h3 {
+  opacity: 1;
+}
 
 #main-display {
   margin-top: 5em;
