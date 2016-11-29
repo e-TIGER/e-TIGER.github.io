@@ -17,7 +17,7 @@ h1 {
 }
 
 h3, p {
-  opacity: 0;
+  opacity: 1;
 }
 
 form {
@@ -34,7 +34,7 @@ li a {
   min-height: 33em;
   padding: 1em;
   background-color: white;
-  opacity: 0.75;
+  opacity: 0.5;
 }
 
 #main-display {
